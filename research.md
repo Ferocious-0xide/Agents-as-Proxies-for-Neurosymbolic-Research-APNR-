@@ -59,6 +59,19 @@
    - Updates on current research
    - Implementation insights
 
+3. [POET: Generating/solving complex challenges with LLMs](https://arxiv.org/abs/2402.08919)
+
+4. [Automated capability discovery in foundation models](https://openreview.net/forum?id=nhgbvyrvTP)
+
+5. [Novelty search vs objective-based optimization](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/lehman_ecj11.pdf)
+
+6. [AI-generating algorithms approach to AGI](https://arxiv.org/abs/1905.10985)
+
+7. [Thought Cloning: Imitating human thinking](https://arxiv.org/pdf/2306.00323)
+
+8. [Automated Design of Agentic Systems (ADAS)](https://arxiv.org/abs/2408.08435)
+
+9. [OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness](https://arxiv.org/abs/2405.15568)
 ### Conferences & Workshops
 - NeurIPS Workshops on Neural-Symbolic Learning
 - AAAI Spring Symposium on Neural-Symbolic Learning and Reasoning
